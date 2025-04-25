@@ -74,5 +74,7 @@ The nano command is a text editor.
 nano [filename]
 ```
 Exit: Ctrl + X
+
 Save: Press Y
+
 Don’t save: Press N
