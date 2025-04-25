@@ -1,4 +1,4 @@
-# 🖥️ Command Line Cheat Sheet
+# 🖥️ Command Line
 
 My guide to essential command line commands for navigating and managing the file system.
 
