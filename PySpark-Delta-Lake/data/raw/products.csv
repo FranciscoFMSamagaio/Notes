@@ -1,0 +1,6 @@
+product_id,product_name,category,unit_price
+P001,Laptop Pro,computers,1299.90
+P002,Monitor 27,accessories,239.50
+P003,Keyboard MX,accessories,89.99
+P004,Cloud Storage 1TB,services,99.00
+P005,Data Engineering Course,education,349.00
